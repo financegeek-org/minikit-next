@@ -17,7 +17,7 @@ Environment file - create .env from .env.example
 
 `WLD_CLIENT_SECRET` is also from World Dev Portal
 
-`NEXTAUTH_URL` is where your app is hosted. eg: https://c3af-183-22-105-62.ngrok-free.app if using ngrok free above
+`NEXTAUTH_URL` is where your app is hosted. eg: `https://XXXXYYYY.ngrok-free.app` if using ngrok free above
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
